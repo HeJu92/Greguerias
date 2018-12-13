@@ -1,0 +1,50 @@
+body{
+    background-color: #2D8652;
+}
+h1{
+    text-transform: capitalize;
+    font-size: 48px;
+    font-family: sans-serif;
+}
+p.altavoz{
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+    font-size: 24px;
+}
+p.golondrinas{
+    color: #FFDFB3;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+p.escritor{
+    color: #FF9F1A;
+    font-size: 26px;
+    font-family: monospace;
+}
+p.niño{
+    color: #FFFFFF;
+    font-family: serif;
+    font-style: oblique;
+    font-size: 24px;
+}
+p.libro{
+    color: #FF9F28;
+    font-family: monospace;
+    font-size: 26px;
+}
+p.ceros{
+    color: #E63D50;
+    font-family: cursive;
+    font-size: 24px;
+}
+p.chicharra{
+    color: #FFDFB3;
+    font-family: sans-serif;
+    font-size: 24px;
+}
+p.seis{
+    color: #E63D50;
+    font-family: cursive;
+    font-size: 24px;
+}
